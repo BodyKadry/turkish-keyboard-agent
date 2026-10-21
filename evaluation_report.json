@@ -1,0 +1,428 @@
+{
+  "total_examples": 60,
+  "exact_correct": 58,
+  "exact_accuracy": 0.9667,
+  "average_character_accuracy": 0.9986,
+  "results": [
+    {
+      "input": "yaz okulunda ders almak istiyorum",
+      "expected": "yaz okulunda ders almak istiyorum",
+      "predicted": "yaz okulunda ders almak istiyorum",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "cocuklar bahcede oynuyor",
+      "expected": "çocuklar bahçede oynuyor",
+      "predicted": "çocuklar bahçede oynuyor",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "ders notlarini paylasir misin",
+      "expected": "ders notlarını paylaşır mısın",
+      "predicted": "ders notlarını paylaşır mısın",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "guncellemeden sonra sorun cikti",
+      "expected": "güncellemeden sonra sorun çıktı",
+      "predicted": "güncellemeden sonra sorun çıktı",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "bugun kendimi iyi hissediyorum",
+      "expected": "bugün kendimi iyi hissediyorum",
+      "predicted": "bugün kendimi iyi hissediyorum",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "yolda arkadasimla karsilastim",
+      "expected": "yolda arkadaşımla karşılaştım",
+      "predicted": "yolda arkadaşımla karşılaştım",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "resim kalitesi cok dusuk",
+      "expected": "resim kalitesi çok düşük",
+      "predicted": "resim kalitesi çok düşük",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "sayfa yuklenirken hata olustu",
+      "expected": "sayfa yüklenirken hata oluştu",
+      "predicted": "sayfa yüklenirken hata oluştu",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "buton rengi degismeli",
+      "expected": "buton rengi değişmeli",
+      "predicted": "buton rengi değişmeli",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "bu fonksiyon dogru calismiyor",
+      "expected": "bu fonksiyon doğru çalışmıyor",
+      "predicted": "bu fonksiyon doğru çalışmıyor",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "arka planda islem yapmayacak",
+      "expected": "arka planda işlem yapmayacak",
+      "predicted": "arka planda işlem yapmayacak",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "kodun mantigini bozma",
+      "expected": "kodun mantığını bozma",
+      "predicted": "kodun mantığını bozma",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "sifre yenileme baglantisi gonderildi",
+      "expected": "şifre yenileme bağlantısı gönderildi",
+      "predicted": "şifre yenileme bağlantısı gönderildi",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "cok profesyonel gorunsun",
+      "expected": "çok profesyonel görünsün",
+      "predicted": "çok profesyonel görünsün",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "ana ekranda sadece buyuk ikonlar olsun",
+      "expected": "ana ekranda sadece büyük ikonlar olsun",
+      "predicted": "ana ekranda sadece büyük ikonlar olsun",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "kenar bosluklari artirilmali",
+      "expected": "kenar boşlukları artırılmalı",
+      "predicted": "kenar boşlukları artırılmalı",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "butona bastigimda tepki vermiyor",
+      "expected": "butona bastığımda tepki vermiyor",
+      "predicted": "butona bastığımda tepki vermiyor",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "ekran koruyucu kirildi",
+      "expected": "ekran koruyucu kırıldı",
+      "predicted": "ekran koruyucu kırıldı",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "konuyla ilgili bilgi bekliyorum",
+      "expected": "konuyla ilgili bilgi bekliyorum",
+      "predicted": "konuyla ilgili bilgi bekliyorum",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "dosyalari klasore tasidim",
+      "expected": "dosyaları klasöre taşıdım",
+      "predicted": "dosyaları klasöre taşıdım",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "kitap okumaya basladim",
+      "expected": "kitap okumaya başladım",
+      "predicted": "kitap okumaya başladım",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "kucuk bir sorun var",
+      "expected": "küçük bir sorun var",
+      "predicted": "küçük bir sorun var",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "urun bekledigimden daha iyi cikti",
+      "expected": "ürün beklediğimden daha iyi çıktı",
+      "predicted": "ürün beklediğimden daha iyi çıktı",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "akts limitim doldu",
+      "expected": "AKTS limitim doldu",
+      "predicted": "AKTS limitim doldu",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "simulasyon sadece ui icin olacak",
+      "expected": "simülasyon sadece UI için olacak",
+      "predicted": "simülasyon sadece UI için olacak",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "tasarim cok guzel olmus",
+      "expected": "tasarım çok güzel olmuş",
+      "predicted": "tasarım çok güzel olmuş",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "saygilarimla iyi calismalar dilerim",
+      "expected": "saygılarımla iyi çalışmalar dilerim",
+      "predicted": "saygılarımla iyi çalışmalar dilerim",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "kodu tekrar duzenler misin",
+      "expected": "kodu tekrar düzenler misin",
+      "predicted": "kodu tekrar düzenler misin",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "filmi cok begendim",
+      "expected": "filmi çok beğendim",
+      "predicted": "filmi çok beğendim",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "dinlenmem gerektigini soyledi",
+      "expected": "dinlenmem gerektiğini söyledi",
+      "predicted": "dinlenmem gerektiğini söyledi",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "aksam gorusmek uzere",
+      "expected": "akşam görüşmek üzere",
+      "predicted": "akşam görüşmek üzere",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "gunes bugun cok parlak",
+      "expected": "güneş bugün çok parlak",
+      "predicted": "güneş bugün çok parlak",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "batarya yuzdesi gorunmuyor",
+      "expected": "batarya yüzdesi görünmüyor",
+      "predicted": "batarya yüzdesi görünmüyor",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "metinleri arapcaya cevir",
+      "expected": "metinleri Arapçaya çevir",
+      "predicted": "metinleri arapçaya çevir",
+      "exact_match": false,
+      "character_accuracy": 0.9583
+    },
+    {
+      "input": "magazadan cevap bekliyorum",
+      "expected": "mağazadan cevap bekliyorum",
+      "predicted": "mağazadan cevap bekliyorum",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "bugun istanbulda hava nasil",
+      "expected": "bugün İstanbul'da hava nasıl",
+      "predicted": "bugün İstanbul'da hava nasıl",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "evden calisiyorum",
+      "expected": "evden çalışıyorum",
+      "predicted": "evden çalışıyorum",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "sunumu birazdan gonderecegim",
+      "expected": "sunumu birazdan göndereceğim",
+      "predicted": "sunumu birazdan göndereceğim",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "kullanici adi hatali",
+      "expected": "kullanıcı adı hatalı",
+      "predicted": "kullanıcı adı hatalı",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "sayilari latin rakam olarak birak",
+      "expected": "sayıları Latin rakam olarak bırak",
+      "predicted": "sayıları Latin rakam olarak bırak",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "bu maili daha resmi yaz",
+      "expected": "bu maili daha resmî yaz",
+      "predicted": "bu maili daha resmi yaz",
+      "exact_match": false,
+      "character_accuracy": 0.9565
+    },
+    {
+      "input": "rf araclari ayni tasarimla acilmali",
+      "expected": "RF araçları aynı tasarımla açılmalı",
+      "predicted": "RF araçları aynı tasarımla açılmalı",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "bu donem cok yogun geciyor",
+      "expected": "bu dönem çok yoğun geçiyor",
+      "predicted": "bu dönem çok yoğun geçiyor",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "program acilmiyor hata veriyor",
+      "expected": "program açılmıyor hata veriyor",
+      "predicted": "program açılmıyor hata veriyor",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "cay icmeyi cok seviyorum",
+      "expected": "çay içmeyi çok seviyorum",
+      "predicted": "çay içmeyi çok seviyorum",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "yukleme ekraninda animasyon olsun",
+      "expected": "yükleme ekranında animasyon olsun",
+      "predicted": "yükleme ekranında animasyon olsun",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "maili simdi kontrol ediyorum",
+      "expected": "maili şimdi kontrol ediyorum",
+      "predicted": "maili şimdi kontrol ediyorum",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "sabah kahvesi cok guzeldi",
+      "expected": "sabah kahvesi çok güzeldi",
+      "predicted": "sabah kahvesi çok güzeldi",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "sozlesme imzalanmadan once oku",
+      "expected": "sözleşme imzalanmadan önce oku",
+      "predicted": "sözleşme imzalanmadan önce oku",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "notumun tekrar incelenmesini rica ederim",
+      "expected": "notumun tekrar incelenmesini rica ederim",
+      "predicted": "notumun tekrar incelenmesini rica ederim",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "otobus gec geldi",
+      "expected": "otobüs geç geldi",
+      "predicted": "otobüs geç geldi",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "aciklama kismi eksik kalmis",
+      "expected": "açıklama kısmı eksik kalmış",
+      "predicted": "açıklama kısmı eksik kalmış",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "ogretmen bugun derse gec geldi",
+      "expected": "öğretmen bugün derse geç geldi",
+      "predicted": "öğretmen bugün derse geç geldi",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "muzik dinlerken calisiyorum",
+      "expected": "müzik dinlerken çalışıyorum",
+      "predicted": "müzik dinlerken çalışıyorum",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "aksam yemeginde corba ictim",
+      "expected": "akşam yemeğinde çorba içtim",
+      "predicted": "akşam yemeğinde çorba içtim",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "olculer ayni kalsin",
+      "expected": "ölçüler aynı kalsın",
+      "predicted": "ölçüler aynı kalsın",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "butce tekrar hesaplandi",
+      "expected": "bütçe tekrar hesaplandı",
+      "predicted": "bütçe tekrar hesaplandı",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "sistem uzerinden ders secimi yapamiyorum",
+      "expected": "sistem üzerinden ders seçimi yapamıyorum",
+      "predicted": "sistem üzerinden ders seçimi yapamıyorum",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "baslik cok uzun olmus",
+      "expected": "başlık çok uzun olmuş",
+      "predicted": "başlık çok uzun olmuş",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    },
+    {
+      "input": "danisman hocamla gorustum",
+      "expected": "danışman hocamla görüştüm",
+      "predicted": "danışman hocamla görüştüm",
+      "exact_match": true,
+      "character_accuracy": 1.0
+    }
+  ]
+}

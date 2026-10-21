@@ -1,0 +1,78 @@
+
+2026-05-20 11:10:04 [INFO] UI started
+2026-05-20 11:10:05 [INFO] Agent stopped
+2026-05-20 11:11:30 [INFO] UI started
+2026-05-20 11:11:31 [INFO] Agent stopped
+2026-05-20 11:11:47 [INFO] UI started
+2026-05-20 11:11:47 [INFO] Chat history cleared
+2026-05-20 11:11:47 [INFO] Chat correction completed
+2026-05-20 11:12:50 [INFO] UI started
+2026-05-20 11:13:05 [INFO] Custom dictionary loaded: 8 entries
+2026-05-20 11:13:07 [INFO] Chat correction completed
+2026-05-20 11:13:39 [INFO] UI started
+2026-05-20 11:13:45 [INFO] Turkish Keyboard Correction Agent starting
+2026-05-20 11:13:45 [INFO] Hotkey: ctrl+windows
+2026-05-20 11:13:45 [INFO] Provider: Ollama API
+2026-05-20 11:13:45 [INFO] Ollama base URL: https://ollama.com/api
+2026-05-20 11:13:45 [INFO] Model: gpt-oss:120b
+2026-05-20 11:13:45 [INFO] Select text anywhere, then press ctrl+windows to correct it.
+2026-05-20 11:13:45 [INFO] Custom dictionary loaded: 8 entries
+2026-05-20 11:13:45 [INFO] Recent correction examples available: 12
+2026-05-20 11:13:45 [INFO] Global hotkey registered: ctrl+windows
+2026-05-20 11:13:45 [INFO] Agent is running
+2026-05-20 11:13:51 [INFO] Correction requested
+2026-05-20 11:13:51 [INFO] Correction started, loading overlay shown
+2026-05-20 11:13:52 [INFO] No selected text found
+2026-05-20 11:13:52 [INFO] Correction finished, loading overlay hidden
+2026-05-20 11:13:59 [INFO] Correction requested
+2026-05-20 11:13:59 [INFO] Correction started, loading overlay shown
+2026-05-20 11:13:59 [INFO] No selected text found
+2026-05-20 11:13:59 [INFO] Correction finished, loading overlay hidden
+2026-05-20 11:14:08 [INFO] Correction requested
+2026-05-20 11:14:08 [INFO] Correction started, loading overlay shown
+2026-05-20 11:14:08 [INFO] No selected text found
+2026-05-20 11:14:08 [INFO] Correction finished, loading overlay hidden
+2026-05-20 11:14:11 [INFO] Correction requested
+2026-05-20 11:14:11 [INFO] Correction started, loading overlay shown
+2026-05-20 11:14:11 [INFO] No selected text found
+2026-05-20 11:14:11 [INFO] Correction finished, loading overlay hidden
+2026-05-20 11:14:11 [INFO] Correction requested
+2026-05-20 11:14:11 [INFO] Correction started, loading overlay shown
+2026-05-20 11:14:12 [INFO] No selected text found
+2026-05-20 11:14:12 [INFO] Correction finished, loading overlay hidden
+2026-05-20 11:14:17 [INFO] Global hotkey listener stopped
+2026-05-20 11:14:17 [INFO] Agent stopped
+2026-05-20 11:14:19 [INFO] Turkish Keyboard Correction Agent starting
+2026-05-20 11:14:19 [INFO] Hotkey: ctrl+windows
+2026-05-20 11:14:19 [INFO] Provider: Ollama API
+2026-05-20 11:14:19 [INFO] Ollama base URL: https://ollama.com/api
+2026-05-20 11:14:19 [INFO] Model: gpt-oss:120b
+2026-05-20 11:14:19 [INFO] Select text anywhere, then press ctrl+windows to correct it.
+2026-05-20 11:14:19 [INFO] Custom dictionary loaded: 8 entries
+2026-05-20 11:14:19 [INFO] Recent correction examples available: 12
+2026-05-20 11:14:19 [INFO] Global hotkey registered: ctrl+windows
+2026-05-20 11:14:19 [INFO] Agent is running
+2026-05-20 11:14:27 [INFO] Correction requested
+2026-05-20 11:14:27 [INFO] Correction started, loading overlay shown
+2026-05-20 11:14:27 [INFO] No selected text found
+2026-05-20 11:14:27 [INFO] Correction finished, loading overlay hidden
+2026-05-20 12:02:19 [INFO] UI started
+2026-05-20 14:43:47 [INFO] UI started
+2026-05-20 14:44:02 [INFO] Custom dictionary loaded: 8 entries
+2026-05-20 14:44:05 [INFO] Correction example saved
+2026-05-20 14:44:05 [INFO] Chat correction completed
+2026-05-20 14:48:34 [INFO] UI started
+2026-05-20 14:51:57 [INFO] UI started
+2026-05-20 14:52:13 [INFO] Custom dictionary loaded: 8 entries
+2026-05-20 14:52:16 [INFO] Chat correction completed
+2026-05-20 14:52:31 [INFO] Chat history cleared
+2026-05-20 14:55:29 [INFO] UI started
+2026-05-20 14:57:01 [INFO] UI started
+2026-05-20 14:57:39 [INFO] UI started
+2026-05-20 14:58:18 [INFO] UI started
+2026-05-20 14:59:15 [INFO] UI started
+2026-05-20 14:59:57 [INFO] Custom dictionary loaded: 8 entries
+2026-05-20 15:00:00 [INFO] Correction example saved
+2026-05-20 15:00:00 [INFO] Chat correction completed
+2026-05-20 15:00:29 [INFO] Custom dictionary loaded: 8 entries
+2026-05-20 15:00:31 [INFO] Chat correction completed

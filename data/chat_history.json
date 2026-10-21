@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "text": "dunku yamek cuk guzeldo",
+    "timestamp": "2026-05-20T14:59:57"
+  },
+  {
+    "role": "assistant",
+    "text": "dünkü yemek çok güzel",
+    "timestamp": "2026-05-20T15:00:00"
+  },
+  {
+    "role": "user",
+    "text": "dun yemak cok guzeldi",
+    "timestamp": "2026-05-20T15:00:29"
+  },
+  {
+    "role": "assistant",
+    "text": "dün yemek çok güzeldi",
+    "timestamp": "2026-05-20T15:00:31"
+  }
+]

@@ -1,0 +1,7 @@
+keyboard
+pyperclip
+pyautogui
+python-dotenv
+requests
+PySide6
+pyinstaller

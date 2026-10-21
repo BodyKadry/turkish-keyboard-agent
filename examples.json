@@ -1,0 +1,1742 @@
+[
+  {
+    "input": "bu konu hakinda bilgi alabilirmiyim",
+    "output": "bu konu hakkında bilgi alabilir miyim"
+  },
+  {
+    "input": "size bekliyorum",
+    "output": "sizi bekliyorum"
+  },
+  {
+    "input": "ben yarin okula gidicem",
+    "output": "ben yarın okula gideceğim"
+  },
+  {
+    "input": "dun hocaya mail atdim ama cevap gelmedi",
+    "output": "dün hocaya mail attım ama cevap gelmedi"
+  },
+  {
+    "input": "bugun derse gec kaldim cunku otobus gelmedi",
+    "output": "bugün derse geç kaldım çünkü otobüs gelmedi"
+  },
+  {
+    "input": "sinav kagidimi tekrar incelemenizi rica edicem",
+    "output": "sınav kâğıdımı tekrar incelemenizi rica edeceğim"
+  },
+  {
+    "input": "notum neden bu kadar dusuk anlamadim",
+    "output": "notumun neden bu kadar düşük olduğunu anlamadım"
+  },
+  {
+    "input": "bu odevi teslim etdim fakat sistemde gorunmuyor",
+    "output": "bu ödevi teslim ettim fakat sistemde görünmüyor"
+  },
+  {
+    "input": "ders secimi yapamiyorum cunku akts limitim dolmus",
+    "output": "ders seçimi yapamıyorum çünkü AKTS limitim dolmuş"
+  },
+  {
+    "input": "fakulte kurulundan onay cikmadan ders eklenmiyormus",
+    "output": "fakülte kurulundan onay çıkmadan ders eklenmiyormuş"
+  },
+  {
+    "input": "danisman hocam bana cevap vermedigi icin bekliyorum",
+    "output": "danışman hocam bana cevap vermediği için bekliyorum"
+  },
+  {
+    "input": "mezun ola bilmem icin bu dersi gecmem lazim",
+    "output": "mezun olabilmem için bu dersi geçmem lazım"
+  },
+  {
+    "input": "tek ders sinavina girme hakkim varmi",
+    "output": "tek ders sınavına girme hakkım var mı"
+  },
+  {
+    "input": "yaz okulunda bu ders acilacakmi bilmiyorum",
+    "output": "yaz okulunda bu ders açılacak mı bilmiyorum"
+  },
+  {
+    "input": "ogrenci islerine sordum ama net cevap alamadim",
+    "output": "öğrenci işlerine sordum ama net cevap alamadım"
+  },
+  {
+    "input": "dilekcemi sisteme yukledim ama hala onaylanmadi",
+    "output": "dilekçemi sisteme yükledim ama hâlâ onaylanmadı"
+  },
+  {
+    "input": "hocanin anlattigi konu mufredatin disinda gibi duruyor",
+    "output": "hocanın anlattığı konu müfredatın dışında gibi duruyor"
+  },
+  {
+    "input": "sikayetimi resmi bir dille yazmak istiyorum",
+    "output": "şikâyetimi resmî bir dille yazmak istiyorum"
+  },
+  {
+    "input": "gereginin yapilmasini arz ederim saygilarimla",
+    "output": "gereğinin yapılmasını arz ederim. Saygılarımla"
+  },
+  {
+    "input": "bu konuyu sizinle gorusmek uzere randevu almak istiyorum",
+    "output": "bu konuyu sizinle görüşmek üzere randevu almak istiyorum"
+  },
+  {
+    "input": "Merhaba hocam sinav kagidim tekrar kontrol edilebilirmi",
+    "output": "Merhaba hocam, sınav kâğıdım tekrar kontrol edilebilir mi"
+  },
+  {
+    "input": "Sayin hocam notumun tekrar incelenmesini rica ediyorum",
+    "output": "Sayın hocam, notumun tekrar incelenmesini rica ediyorum"
+  },
+  {
+    "input": "Cevabiniz icin tesekkur eder iyi calismalar dilerim",
+    "output": "Cevabınız için teşekkür eder, iyi çalışmalar dilerim"
+  },
+  {
+    "input": "Konuyla alakali tarafima bilgi verilmesini rica ederim",
+    "output": "Konuyla alakalı tarafıma bilgi verilmesini rica ederim"
+  },
+  {
+    "input": "Basvuru surecinin ne zaman sonuclanacagini ogrenmek istiyorum",
+    "output": "Başvuru sürecinin ne zaman sonuçlanacağını öğrenmek istiyorum"
+  },
+  {
+    "input": "Ders kaydimi tamamladim fakat sistemde hata gorunuyor",
+    "output": "Ders kaydımı tamamladım fakat sistemde hata görünüyor"
+  },
+  {
+    "input": "Bu durum mezuniyetimi etkiledigi icin acil donus rica ederim",
+    "output": "Bu durum mezuniyetimi etkilediği için acil dönüş rica ederim"
+  },
+  {
+    "input": "Ekte gonderdigim belgeyi inceleyebilirmisiniz",
+    "output": "Ekte gönderdiğim belgeyi inceleyebilir misiniz"
+  },
+  {
+    "input": "Basvurumun degerlendirilmesini saygilarimla arz ederim",
+    "output": "Başvurumun değerlendirilmesini saygılarımla arz ederim"
+  },
+  {
+    "input": "Tarafinizdan istenen evraklari bugun teslim ettim",
+    "output": "Tarafınızdan istenen evrakları bugün teslim ettim"
+  },
+  {
+    "input": "kod calisiyor ama bazi yerlerde hata veriyo",
+    "output": "kod çalışıyor ama bazı yerlerde hata veriyor"
+  },
+  {
+    "input": "bu fonksiyon dogru sonuc dondurmuyo",
+    "output": "bu fonksiyon doğru sonuç döndürmüyor"
+  },
+  {
+    "input": "veritabani baglantisi kurulduktan sonra sayfa acilmiyor",
+    "output": "veritabanı bağlantısı kurulduktan sonra sayfa açılmıyor"
+  },
+  {
+    "input": "kullanici adi ve sifre dogru oldugu halde giris yapamiyorum",
+    "output": "kullanıcı adı ve şifre doğru olduğu hâlde giriş yapamıyorum"
+  },
+  {
+    "input": "api cevabi bos donuyor ama hata mesajida yok",
+    "output": "API cevabı boş dönüyor ama hata mesajı da yok"
+  },
+  {
+    "input": "json dosyasini okurken turkce karakterler bozuluyor",
+    "output": "JSON dosyasını okurken Türkçe karakterler bozuluyor"
+  },
+  {
+    "input": "readme dosyasinda kurulum adimlari eksik kalmis",
+    "output": "README dosyasında kurulum adımları eksik kalmış"
+  },
+  {
+    "input": "requirements dosyasina requests eklenmemis",
+    "output": "requirements dosyasına requests eklenmemiş"
+  },
+  {
+    "input": "ollama api anahtari env dosyasindan okunmuyor",
+    "output": "Ollama API anahtarı .env dosyasından okunmuyor"
+  },
+  {
+    "input": "model adi config uzerinden degistirilebilir olmali",
+    "output": "model adı config üzerinden değiştirilebilir olmalı"
+  },
+  {
+    "input": "clipboard degismedigi icin secili metin alinamiyor",
+    "output": "clipboard değişmediği için seçili metin alınamıyor"
+  },
+  {
+    "input": "hotkey basildiginda ctrl tusu hala aktif kaliyor",
+    "output": "hotkey basıldığında Ctrl tuşu hâlâ aktif kalıyor"
+  },
+  {
+    "input": "windows tusu start menusunu actigi icin kopyalama bozuluyor",
+    "output": "Windows tuşu Start menüsünü açtığı için kopyalama bozuluyor"
+  },
+  {
+    "input": "pyautogui ile ctrl c gondermeden once tuslari serbest birak",
+    "output": "pyautogui ile Ctrl+C göndermeden önce tuşları serbest bırak"
+  },
+  {
+    "input": "loglarda hata acik bir sekilde yazmali",
+    "output": "loglarda hata açık bir şekilde yazmalı"
+  },
+  {
+    "input": "program arka planda calisirken sistem kaynaklarini cok tuketmemeli",
+    "output": "program arka planda çalışırken sistem kaynaklarını çok tüketmemeli"
+  },
+  {
+    "input": "duzeltme basarisiz olursa orijinal metni geri dondur",
+    "output": "düzeltme başarısız olursa orijinal metni geri döndür"
+  },
+  {
+    "input": "ai cevabi cok uzunsa guvenlik icin reddedilmeli",
+    "output": "AI cevabı çok uzunsa güvenlik için reddedilmeli"
+  },
+  {
+    "input": "kod bloklari ve url adresleri kesinlikle degismemeli",
+    "output": "kod blokları ve URL adresleri kesinlikle değişmemeli"
+  },
+  {
+    "input": "github.com/bodykdry/test adresini degistirme sadece cumleyi duzelt",
+    "output": "github.com/bodykdry/test adresini değiştirme, sadece cümleyi düzelt"
+  },
+  {
+    "input": "Ahmet bugun github.com/test adresine girdi",
+    "output": "Ahmet bugün github.com/test adresine girdi"
+  },
+  {
+    "input": "info@standartpompa.com adresine mail gonderdim",
+    "output": "info@standartpompa.com adresine mail gönderdim"
+  },
+  {
+    "input": "C:\\Users\\Abdul\\Desktop klasorune kaydettim",
+    "output": "C:\\Users\\Abdul\\Desktop klasörüne kaydettim"
+  },
+  {
+    "input": "python main.py komutunu calistirdim ama sonuc alamadim",
+    "output": "python main.py komutunu çalıştırdım ama sonuç alamadım"
+  },
+  {
+    "input": "OLLAMA_API_KEY degiskeni bos oldugu icin istek atilmiyor",
+    "output": "OLLAMA_API_KEY değişkeni boş olduğu için istek atılmıyor"
+  },
+  {
+    "input": "gpt-oss:120b modeli ile test yapmak istiyorum",
+    "output": "gpt-oss:120b modeli ile test yapmak istiyorum"
+  },
+  {
+    "input": "http://localhost:11434 adresi local api icin kullaniliyor",
+    "output": "http://localhost:11434 adresi local API için kullanılıyor"
+  },
+  {
+    "input": "https://ollama.com/api/generate endpointine istek at",
+    "output": "https://ollama.com/api/generate endpointine istek at"
+  },
+  {
+    "input": "Ctrl+Windows kisayolu bazen kopyalamayi engelliyor",
+    "output": "Ctrl+Windows kısayolu bazen kopyalamayı engelliyor"
+  },
+  {
+    "input": "Ctrl+C ve Ctrl+V islemleri stabil calismali",
+    "output": "Ctrl+C ve Ctrl+V işlemleri stabil çalışmalı"
+  },
+  {
+    "input": "bu cumleyi duzelt ama anlami degismesin",
+    "output": "bu cümleyi düzelt ama anlamı değişmesin"
+  },
+  {
+    "input": "metni daha resmi yapma sadece yazim hatalarini duzelt",
+    "output": "metni daha resmî yapma, sadece yazım hatalarını düzelt"
+  },
+  {
+    "input": "gayet guzel olmus ama bazi hatalar var",
+    "output": "gayet güzel olmuş ama bazı hatalar var"
+  },
+  {
+    "input": "ben bunu yarina kadar bitiricem merak etme",
+    "output": "ben bunu yarına kadar bitireceğim, merak etme"
+  },
+  {
+    "input": "sana attigim dosyayi acip kontrol edermisin",
+    "output": "sana attığım dosyayı açıp kontrol eder misin"
+  },
+  {
+    "input": "bu is neden hala bitmedi anlamis degilim",
+    "output": "bu işin neden hâlâ bitmediğini anlamış değilim"
+  },
+  {
+    "input": "elinden geleni yaptigini biliyorum ama sonuc iyi degil",
+    "output": "elinden geleni yaptığını biliyorum ama sonuç iyi değil"
+  },
+  {
+    "input": "hic bir sekilde calismiyor ne yapmam lazim",
+    "output": "hiçbir şekilde çalışmıyor, ne yapmam lazım"
+  },
+  {
+    "input": "her sey tamam gibi ama testlerde hata cikiyor",
+    "output": "her şey tamam gibi ama testlerde hata çıkıyor"
+  },
+  {
+    "input": "yanlis anlamazsan bir sey sormak istiyorum",
+    "output": "yanlış anlamazsan bir şey sormak istiyorum"
+  },
+  {
+    "input": "bu kadar beklememe ragmen cevap alamadim",
+    "output": "bu kadar beklememe rağmen cevap alamadım"
+  },
+  {
+    "input": "suan disardayim eve gecince bakicam",
+    "output": "şu an dışarıdayım, eve geçince bakacağım"
+  },
+  {
+    "input": "bana musait oldugunda haber verirmisin",
+    "output": "bana müsait olduğunda haber verir misin"
+  },
+  {
+    "input": "eger sorun yoksa bugun goruselim",
+    "output": "eğer sorun yoksa bugün görüşelim"
+  },
+  {
+    "input": "farketmez sen nasil istersen oyle yapalim",
+    "output": "fark etmez, sen nasıl istersen öyle yapalım"
+  },
+  {
+    "input": "birsey degistirmeden sadece hatalari duzelt",
+    "output": "bir şey değiştirmeden sadece hataları düzelt"
+  },
+  {
+    "input": "yanlislikla dosyayi sildim geri getirebilirmiyiz",
+    "output": "yanlışlıkla dosyayı sildim, geri getirebilir miyiz"
+  },
+  {
+    "input": "bunu daha once denedim ama ise yaramadi",
+    "output": "bunu daha önce denedim ama işe yaramadı"
+  },
+  {
+    "input": "bu sekilde devam ederse proje yetismeyecek",
+    "output": "bu şekilde devam ederse proje yetişmeyecek"
+  },
+  {
+    "input": "vaktim cok az oldugu icin hizli cozum lazim",
+    "output": "vaktim çok az olduğu için hızlı çözüm lazım"
+  },
+  {
+    "input": "turkce metinlerde de da ayrimina dikkat et",
+    "output": "Türkçe metinlerde de/da ayrımına dikkat et"
+  },
+  {
+    "input": "sende haklisin ama bende bunu bilmiyordum",
+    "output": "sen de haklısın ama ben de bunu bilmiyordum"
+  },
+  {
+    "input": "bugunde ayni hatayi aliyorum",
+    "output": "bugün de aynı hatayı alıyorum"
+  },
+  {
+    "input": "dosyada sorun yok ama sistemde hata var",
+    "output": "dosyada sorun yok ama sistemde hata var"
+  },
+  {
+    "input": "bunu sende deneyip sonucu bana at",
+    "output": "bunu sen de deneyip sonucu bana at"
+  },
+  {
+    "input": "yanimdada sarj aleti yok",
+    "output": "yanımda da şarj aleti yok"
+  },
+  {
+    "input": "burdada ayni problem var",
+    "output": "burada da aynı problem var"
+  },
+  {
+    "input": "koduda gonderdim ekran goruntusunude",
+    "output": "kodu da gönderdim, ekran görüntüsünü de"
+  },
+  {
+    "input": "banada ayni sekilde hata verdi",
+    "output": "bana da aynı şekilde hata verdi"
+  },
+  {
+    "input": "onuda kontrol edermisin",
+    "output": "onu da kontrol eder misin"
+  },
+  {
+    "input": "ki baglaci bazen yanlis yaziliyor bunu duzelt",
+    "output": "ki bağlacı bazen yanlış yazılıyor, bunu düzelt"
+  },
+  {
+    "input": "baktimki dosya zaten yuklenmis",
+    "output": "baktım ki dosya zaten yüklenmiş"
+  },
+  {
+    "input": "oyleki kimse ne oldugunu anlamadi",
+    "output": "öyle ki kimse ne olduğunu anlamadı"
+  },
+  {
+    "input": "programdaki hata tekrar ortaya cikti",
+    "output": "programdaki hata tekrar ortaya çıktı"
+  },
+  {
+    "input": "sendeki dosya daha guncel olabilir",
+    "output": "sendeki dosya daha güncel olabilir"
+  },
+  {
+    "input": "universitedeki sistem yine acilmiyor",
+    "output": "üniversitedeki sistem yine açılmıyor"
+  },
+  {
+    "input": "benimki dogru ama seninki hatali",
+    "output": "benimki doğru ama seninki hatalı"
+  },
+  {
+    "input": "dosyadaki veriler eksik gorunuyor",
+    "output": "dosyadaki veriler eksik görünüyor"
+  },
+  {
+    "input": "masaustundeki klasoru silme",
+    "output": "masaüstündeki klasörü silme"
+  },
+  {
+    "input": "projendeki readme dosyasini guncelle",
+    "output": "projendeki README dosyasını güncelle"
+  },
+  {
+    "input": "soru isaretinden once bosluk birakma olurmu",
+    "output": "soru işaretinden önce boşluk bırakma, olur mu"
+  },
+  {
+    "input": "bunu nasil yapacagim ?",
+    "output": "bunu nasıl yapacağım?"
+  },
+  {
+    "input": "dosyayi yukledim , kontrol edermisin ?",
+    "output": "dosyayı yükledim, kontrol eder misin?"
+  },
+  {
+    "input": "evet , bende aynisini dusundum",
+    "output": "evet, ben de aynısını düşündüm"
+  },
+  {
+    "input": "hayir , bu sekilde calismaz",
+    "output": "hayır, bu şekilde çalışmaz"
+  },
+  {
+    "input": "tamam . simdi tekrar deneyelim",
+    "output": "tamam. Şimdi tekrar deneyelim"
+  },
+  {
+    "input": "merhaba , size birsey sormak istiyorum",
+    "output": "merhaba, size bir şey sormak istiyorum"
+  },
+  {
+    "input": "bu islemi yaptiktan sonra , program kapaniyor",
+    "output": "bu işlemi yaptıktan sonra program kapanıyor"
+  },
+  {
+    "input": "eger hata alirsan , loglari kontrol et",
+    "output": "eğer hata alırsan logları kontrol et"
+  },
+  {
+    "input": "sonuc dogru degil ; tekrar hesapla",
+    "output": "sonuç doğru değil; tekrar hesapla"
+  },
+  {
+    "input": "istanbulda yasiyorum ama turkcem hala zayif",
+    "output": "İstanbul'da yaşıyorum ama Türkçem hâlâ zayıf"
+  },
+  {
+    "input": "turkiyeye geldigimden beri cok sey ogrendim",
+    "output": "Türkiye'ye geldiğimden beri çok şey öğrendim"
+  },
+  {
+    "input": "misirdan turkiyeye yeni geldim",
+    "output": "Mısır'dan Türkiye'ye yeni geldim"
+  },
+  {
+    "input": "suudi arabistanda calisan bir sirketiz",
+    "output": "Suudi Arabistan'da çalışan bir şirketiz"
+  },
+  {
+    "input": "istanbul esenyurt universitesinde okuyorum",
+    "output": "İstanbul Esenyurt Üniversitesi'nde okuyorum"
+  },
+  {
+    "input": "bilgisayar muhendisligi son sinif ogrencisiyim",
+    "output": "Bilgisayar Mühendisliği son sınıf öğrencisiyim"
+  },
+  {
+    "input": "turkceyi daha iyi yazmak istiyorum",
+    "output": "Türkçeyi daha iyi yazmak istiyorum"
+  },
+  {
+    "input": "arapca ingilizce ve turkce biliyorum",
+    "output": "Arapça, İngilizce ve Türkçe biliyorum"
+  },
+  {
+    "input": "bugun turk telekom subesine gittim",
+    "output": "bugün Türk Telekom şubesine gittim"
+  },
+  {
+    "input": "turknet internetimde bazi siteler acilmiyor",
+    "output": "TurkNet internetimde bazı siteler açılmıyor"
+  },
+  {
+    "input": "sirketinizin suudi arabistan bayiligini almak istiyoruz",
+    "output": "şirketinizin Suudi Arabistan bayiliğini almak istiyoruz"
+  },
+  {
+    "input": "urunleriniz hakkinda detayli bilgi alabilirmiyiz",
+    "output": "ürünleriniz hakkında detaylı bilgi alabilir miyiz"
+  },
+  {
+    "input": "bayilik sartlari ve fiyat listesi hakkinda bilgi rica ederiz",
+    "output": "bayilik şartları ve fiyat listesi hakkında bilgi rica ederiz"
+  },
+  {
+    "input": "temsilcimiz suan istanbulda bulunmaktadir",
+    "output": "temsilcimiz şu an İstanbul'da bulunmaktadır"
+  },
+  {
+    "input": "firma profilinizi inceledik ve ilgimizi cekti",
+    "output": "firma profilinizi inceledik ve ilgimizi çekti"
+  },
+  {
+    "input": "broşur varsa bizimle paylasabilirmisiniz",
+    "output": "broşür varsa bizimle paylaşabilir misiniz"
+  },
+  {
+    "input": "musait oldugunuz bir tarihte toplantı yapmak isteriz",
+    "output": "müsait olduğunuz bir tarihte toplantı yapmak isteriz"
+  },
+  {
+    "input": "cevabinizi bekliyor iyi calismalar diliyoruz",
+    "output": "cevabınızı bekliyor, iyi çalışmalar diliyoruz"
+  },
+  {
+    "input": "is birligi imkanlarini degerlendirmek istiyoruz",
+    "output": "iş birliği imkânlarını değerlendirmek istiyoruz"
+  },
+  {
+    "input": "turkiyedeki uretici firmalarla calismak istiyoruz",
+    "output": "Türkiye'deki üretici firmalarla çalışmak istiyoruz"
+  },
+  {
+    "input": "arayuzu degistirme sadece buton davranisini duzelt",
+    "output": "arayüzü değiştirme, sadece buton davranışını düzelt"
+  },
+  {
+    "input": "ana menude kucuk ikonlar yerine sadece buyuk ikonlar olsun",
+    "output": "ana menüde küçük ikonlar yerine sadece büyük ikonlar olsun"
+  },
+  {
+    "input": "secili modulun ikonu ekranda ortali gorunsun",
+    "output": "seçili modülün ikonu ekranda ortalı görünsün"
+  },
+  {
+    "input": "wifi modulune girince eski tasarima donmesin",
+    "output": "Wi-Fi modülüne girince eski tasarıma dönmesin"
+  },
+  {
+    "input": "rf nfc ir ve bluetooth modulleri ayni ui yapisini kullansin",
+    "output": "RF, NFC, IR ve Bluetooth modülleri aynı UI yapısını kullansın"
+  },
+  {
+    "input": "ayarlar menusu renk degisikligini aninda uygulasin",
+    "output": "ayarlar menüsü renk değişikliğini anında uygulasın"
+  },
+  {
+    "input": "geri tusuna kisa basinca bir onceki sayfaya donsun",
+    "output": "geri tuşuna kısa basınca bir önceki sayfaya dönsün"
+  },
+  {
+    "input": "geri tusuna uzun basinca ana menuye donsun",
+    "output": "geri tuşuna uzun basınca ana menüye dönsün"
+  },
+  {
+    "input": "sol tusa uzun basinca geri gitme ozelligini kaldir",
+    "output": "sol tuşa uzun basınca geri gitme özelliğini kaldır"
+  },
+  {
+    "input": "buton tepkisi cok hizli oldugu icin debounce ekle",
+    "output": "buton tepkisi çok hızlı olduğu için debounce ekle"
+  },
+  {
+    "input": "ekran cozunurlugu 320x240 olarak kalmali",
+    "output": "ekran çözünürlüğü 320x240 olarak kalmalı"
+  },
+  {
+    "input": "smoochiee v2 icin 320x170 ekrana gore ayarla",
+    "output": "Smoochiee V2 için 320x170 ekrana göre ayarla"
+  },
+  {
+    "input": "ahoA logosu acilis ekraninda net gorunmeli",
+    "output": "AHOA logosu açılış ekranında net görünmeli"
+  },
+  {
+    "input": "tft_espi ayarlari dogru dosyadan okunmali",
+    "output": "TFT_eSPI ayarları doğru dosyadan okunmalı"
+  },
+  {
+    "input": "icon_rf.h dosyasini rf modulu icin kullan",
+    "output": "icon_rf.h dosyasını RF modülü için kullan"
+  },
+  {
+    "input": "raporu yazarken kaynaklari duzgun belirt",
+    "output": "raporu yazarken kaynakları düzgün belirt"
+  },
+  {
+    "input": "tez sablonuna uygun basliklar olustur",
+    "output": "tez şablonuna uygun başlıklar oluştur"
+  },
+  {
+    "input": "bitirme projesinde kullanilan modulleri detayli anlat",
+    "output": "bitirme projesinde kullanılan modülleri detaylı anlat"
+  },
+  {
+    "input": "esp32s3 ile pn532 arasindaki i2c baglantisini acikla",
+    "output": "ESP32-S3 ile PN532 arasındaki I2C bağlantısını açıkla"
+  },
+  {
+    "input": "cc1101 ve nrf24l01 modullerinin gorevlerini yaz",
+    "output": "CC1101 ve NRF24L01 modüllerinin görevlerini yaz"
+  },
+  {
+    "input": "sistem mimarisini sekil ile gostermek istiyorum",
+    "output": "sistem mimarisini şekil ile göstermek istiyorum"
+  },
+  {
+    "input": "donanim bilesenleri tablo halinde yazilmali",
+    "output": "donanım bileşenleri tablo hâlinde yazılmalı"
+  },
+  {
+    "input": "projenin amaci ve kapsami daha net olmali",
+    "output": "projenin amacı ve kapsamı daha net olmalı"
+  },
+  {
+    "input": "kullanim senaryolarini akademik dille anlat",
+    "output": "kullanım senaryolarını akademik dille anlat"
+  },
+  {
+    "input": "sonuc bolumunu daha guclu yaz",
+    "output": "sonuç bölümünü daha güçlü yaz"
+  },
+  {
+    "input": "benim icin onemli olan sey ui nin bozulmamasi",
+    "output": "benim için önemli olan şey UI'nin bozulmaması"
+  },
+  {
+    "input": "kodun calismasi kadar gorunumu de onemli",
+    "output": "kodun çalışması kadar görünümü de önemli"
+  },
+  {
+    "input": "yapay zeka bazen cumleyi gereksiz yere degistiriyor",
+    "output": "yapay zekâ bazen cümleyi gereksiz yere değiştiriyor"
+  },
+  {
+    "input": "bu yuzden sadece net hatalari duzeltmesi lazim",
+    "output": "bu yüzden sadece net hataları düzeltmesi lazım"
+  },
+  {
+    "input": "anlami degistiren duzeltmeleri kabul etme",
+    "output": "anlamı değiştiren düzeltmeleri kabul etme"
+  },
+  {
+    "input": "cok uzun cevap donerse orijinali kullan",
+    "output": "çok uzun cevap dönerse orijinali kullan"
+  },
+  {
+    "input": "model bazen output kelimesini de yaziyor onu temizle",
+    "output": "model bazen Output kelimesini de yazıyor, onu temizle"
+  },
+  {
+    "input": "cevap tirnak icinde gelirse tirnaklari kaldir",
+    "output": "cevap tırnak içinde gelirse tırnakları kaldır"
+  },
+  {
+    "input": "markdown kod blogu gelirse bunu reddet",
+    "output": "Markdown kod bloğu gelirse bunu reddet"
+  },
+  {
+    "input": "secili metin bos ise hicbir islem yapma",
+    "output": "seçili metin boş ise hiçbir işlem yapma"
+  },
+  {
+    "input": "Bugun toplantida konusulanlari not aldim ama bazi kisimlar eksik kaldi",
+    "output": "Bugün toplantıda konuşulanları not aldım ama bazı kısımlar eksik kaldı"
+  },
+  {
+    "input": "Eger yarina kadar cevap gelmezse tekrar mail atmayi dusunuyorum",
+    "output": "Eğer yarına kadar cevap gelmezse tekrar mail atmayı düşünüyorum"
+  },
+  {
+    "input": "Bu sorunun neden kaynaklandigini anlamak icin loglari karsilastirdim",
+    "output": "Bu sorunun neden kaynaklandığını anlamak için logları karşılaştırdım"
+  },
+  {
+    "input": "Kullanicinin sectigi metin panoya kopyalanmadigi icin islem basarisiz oluyor",
+    "output": "Kullanıcının seçtiği metin panoya kopyalanmadığı için işlem başarısız oluyor"
+  },
+  {
+    "input": "Modelin verdigi cevap beklenenden farkliysa guvenli sekilde geri donmeliyiz",
+    "output": "Modelin verdiği cevap beklenenden farklıysa güvenli şekilde geri dönmeliyiz"
+  },
+  {
+    "input": "Programin hata vermeden calismasi icin butun kenar durumlari kontrol edilmeli",
+    "output": "Programın hata vermeden çalışması için bütün kenar durumları kontrol edilmeli"
+  },
+  {
+    "input": "Readme dosyasinda hem kurulum hemde kullanim adimlari acik olmali",
+    "output": "README dosyasında hem kurulum hem de kullanım adımları açık olmalı"
+  },
+  {
+    "input": "Requirements dosyasinda gereksiz paketler oldugu icin kurulum uzuyor",
+    "output": "requirements dosyasında gereksiz paketler olduğu için kurulum uzuyor"
+  },
+  {
+    "input": "Ollama api kullanildigi icin google genai kutuphanesine gerek kalmadi",
+    "output": "Ollama API kullanıldığı için google-genai kütüphanesine gerek kalmadı"
+  },
+  {
+    "input": "Bu ornekler modelin sadece harfleri degil yazim hatalarini da duzeltmesini saglar",
+    "output": "Bu örnekler modelin sadece harfleri değil, yazım hatalarını da düzeltmesini sağlar"
+  },
+  {
+    "input": "suan saat 3 de gelicem",
+    "output": "şu an saat 3'te geleceğim"
+  },
+  {
+    "input": "toplanti 15 mayista yapilacak",
+    "output": "toplantı 15 Mayıs'ta yapılacak"
+  },
+  {
+    "input": "2026 da mezun olmayi planliyorum",
+    "output": "2026'da mezun olmayı planlıyorum"
+  },
+  {
+    "input": "2 gun sonra tekrar deneyecegim",
+    "output": "2 gün sonra tekrar deneyeceğim"
+  },
+  {
+    "input": "3 kisi ayni hatayi almis",
+    "output": "3 kişi aynı hatayı almış"
+  },
+  {
+    "input": "1 saat sonra seni ararim",
+    "output": "1 saat sonra seni ararım"
+  },
+  {
+    "input": "5 dakka bekle sonra tekrar baslat",
+    "output": "5 dakika bekle, sonra tekrar başlat"
+  },
+  {
+    "input": "10 gb dosyayi yuklemek cok uzun surdu",
+    "output": "10 GB dosyayı yüklemek çok uzun sürdü"
+  },
+  {
+    "input": "320x240 ekranda ikonlar daha net olmali",
+    "output": "320x240 ekranda ikonlar daha net olmalı"
+  },
+  {
+    "input": "8 gb ram bu is icin yeterli degil",
+    "output": "8 GB RAM bu iş için yeterli değil"
+  },
+  {
+    "input": "lutfen benim yazdigim kodu komple degistirme",
+    "output": "lütfen benim yazdığım kodu komple değiştirme"
+  },
+  {
+    "input": "sadece sorunlu kismi bul ve minimal duzeltme yap",
+    "output": "sadece sorunlu kısmı bul ve minimal düzeltme yap"
+  },
+  {
+    "input": "once projeyi analiz et sonra degisiklik yap",
+    "output": "önce projeyi analiz et, sonra değişiklik yap"
+  },
+  {
+    "input": "dosya yapisini bozmadan yeni modul ekle",
+    "output": "dosya yapısını bozmadan yeni modül ekle"
+  },
+  {
+    "input": "mevcut fonksiyonlari silmeden refactor yap",
+    "output": "mevcut fonksiyonları silmeden refactor yap"
+  },
+  {
+    "input": "test etmeden calisti deme",
+    "output": "test etmeden çalıştı deme"
+  },
+  {
+    "input": "hata varsa acikca soyle ve nasil cozuldugunu yaz",
+    "output": "hata varsa açıkça söyle ve nasıl çözüldüğünü yaz"
+  },
+  {
+    "input": "gereksiz aciklama yapma sadece sonuc ver",
+    "output": "gereksiz açıklama yapma, sadece sonuç ver"
+  },
+  {
+    "input": "kod icindeki yorumlari turkce birak",
+    "output": "kod içindeki yorumları Türkçe bırak"
+  },
+  {
+    "input": "degisikliklerden sonra proje hala calismali",
+    "output": "değişikliklerden sonra proje hâlâ çalışmalı"
+  },
+  {
+    "input": "bunu anlayamadim daha basit anlatirmisin",
+    "output": "bunu anlayamadım, daha basit anlatır mısın"
+  },
+  {
+    "input": "hangi dosyayi degistirmem gerektigini bilmiyorum",
+    "output": "hangi dosyayı değiştirmem gerektiğini bilmiyorum"
+  },
+  {
+    "input": "bana adim adim ne yapacagimi soyle",
+    "output": "bana adım adım ne yapacağımı söyle"
+  },
+  {
+    "input": "komutu nereye yazacagim",
+    "output": "komutu nereye yazacağım"
+  },
+  {
+    "input": "terminalde bu hatayi aliyorum",
+    "output": "terminalde bu hatayı alıyorum"
+  },
+  {
+    "input": "program calisiyor ama sonuc uretmiyor",
+    "output": "program çalışıyor ama sonuç üretmiyor"
+  },
+  {
+    "input": "secilen metni algilamiyor",
+    "output": "seçilen metni algılamıyor"
+  },
+  {
+    "input": "clipboard bos donuyor",
+    "output": "clipboard boş dönüyor"
+  },
+  {
+    "input": "panodaki eski metni geri yuklemiyor",
+    "output": "panodaki eski metni geri yüklemiyor"
+  },
+  {
+    "input": "kopyalama islemi bazi programlarda calismiyor",
+    "output": "kopyalama işlemi bazı programlarda çalışmıyor"
+  },
+  {
+    "input": "hocam merhaba bugun derse gelemicem raporumu yarin getircem",
+    "output": "Hocam merhaba, bugün derse gelemeyeceğim. Raporumu yarın getireceğim"
+  },
+  {
+    "input": "merhaba hocam size bir konu danismak istiyorum musaitmisiniz",
+    "output": "Merhaba hocam, size bir konu danışmak istiyorum. Müsait misiniz"
+  },
+  {
+    "input": "sayin yetkili basvurum hala degerlendirme asamasindami",
+    "output": "Sayın yetkili, başvurum hâlâ değerlendirme aşamasında mı"
+  },
+  {
+    "input": "merhaba urunlerinizle ilgileniyoruz fiyat listenizi gonderebilirmisiniz",
+    "output": "Merhaba, ürünlerinizle ilgileniyoruz. Fiyat listenizi gönderebilir misiniz"
+  },
+  {
+    "input": "iyi gunler suudi arabistanda bayilik almak istiyoruz",
+    "output": "İyi günler, Suudi Arabistan'da bayilik almak istiyoruz"
+  },
+  {
+    "input": "merhaba dosyayi yukledim kontrol edip donus yaparmisin",
+    "output": "Merhaba, dosyayı yükledim. Kontrol edip dönüş yapar mısın"
+  },
+  {
+    "input": "selam bugun biraz gec kalicam beni beklemeyin",
+    "output": "Selam, bugün biraz geç kalacağım. Beni beklemeyin"
+  },
+  {
+    "input": "abi kod calismiyor loglari attim bakarmisin",
+    "output": "Abi kod çalışmıyor, logları attım. Bakar mısın"
+  },
+  {
+    "input": "kanka bunu nasil cozduk hatirliyormusun",
+    "output": "Kanka, bunu nasıl çözdük hatırlıyor musun"
+  },
+  {
+    "input": "tamamdir eve gecince tekrar denicem",
+    "output": "Tamamdır, eve geçince tekrar deneyeceğim"
+  },
+  {
+    "input": "bu cihaz penetrasyon testleri icin kullaniliyor",
+    "output": "bu cihaz penetrasyon testleri için kullanılıyor"
+  },
+  {
+    "input": "etik olmayan kullanimlardan kesinlikle kacinilmali",
+    "output": "etik olmayan kullanımlardan kesinlikle kaçınılmalı"
+  },
+  {
+    "input": "guvenlik arastirmasi yasal izinle yapilmali",
+    "output": "güvenlik araştırması yasal izinle yapılmalı"
+  },
+  {
+    "input": "rf modulunun sadece ui simulasyonu yapilacak",
+    "output": "RF modülünün sadece UI simülasyonu yapılacak"
+  },
+  {
+    "input": "arka planda gercek islem calismayacak",
+    "output": "arka planda gerçek işlem çalışmayacak"
+  },
+  {
+    "input": "cihaz sadece egitim ve test amacli kullanilmali",
+    "output": "cihaz sadece eğitim ve test amaçlı kullanılmalı"
+  },
+  {
+    "input": "moduller listelenirken orijinal isimler korunmali",
+    "output": "modüller listelenirken orijinal isimler korunmalı"
+  },
+  {
+    "input": "wifi bluetooth nfc rf ve ir araclari menuye eklensin",
+    "output": "Wi-Fi, Bluetooth, NFC, RF ve IR araçları menüye eklensin"
+  },
+  {
+    "input": "uyari mesaji sade ve anlasilir olmali",
+    "output": "uyarı mesajı sade ve anlaşılır olmalı"
+  },
+  {
+    "input": "kullanici izin vermeden hicbir islem yapilmasin",
+    "output": "kullanıcı izin vermeden hiçbir işlem yapılmasın"
+  },
+  {
+    "input": "ben bu cumleyi yazdim ama turkce karakterler eksik oldugu icin kotu gorunuyor",
+    "output": "ben bu cümleyi yazdım ama Türkçe karakterler eksik olduğu için kötü görünüyor"
+  },
+  {
+    "input": "yapay zeka bu cumledeki yazim hatalarini duzeltip ayni anlami korumali",
+    "output": "yapay zekâ bu cümledeki yazım hatalarını düzeltip aynı anlamı korumalı"
+  },
+  {
+    "input": "eger metinde url varsa model onu kesinlikle degistirmemeli ve sadece cevresindeki turkceyi duzeltmeli",
+    "output": "eğer metinde URL varsa model onu kesinlikle değiştirmemeli ve sadece çevresindeki Türkçeyi düzeltmeli"
+  },
+  {
+    "input": "secili metin kod parcasi ise duzeltme yapmadan aynen geri dondurmek daha guvenli olabilir",
+    "output": "seçili metin kod parçası ise düzeltme yapmadan aynen geri döndürmek daha güvenli olabilir"
+  },
+  {
+    "input": "kullanici resmi bir mail yaziyorsa yazim hatalari duzeltilmeli ama icerik degistirilmemeli",
+    "output": "kullanıcı resmî bir mail yazıyorsa yazım hataları düzeltilmeli ama içerik değiştirilmemeli"
+  },
+  {
+    "input": "gundelik mesajlarda cok resmi bir dil kullanmak dogal durmayabilir",
+    "output": "gündelik mesajlarda çok resmî bir dil kullanmak doğal durmayabilir"
+  },
+  {
+    "input": "bu nedenle model kullanicinin tonunu mumkun oldugunca korumali",
+    "output": "bu nedenle model kullanıcının tonunu mümkün olduğunca korumalı"
+  },
+  {
+    "input": "bazi kelimeler baglama gore farkli sekilde duzeltilebilir bu yuzden cumlenin tamamina bakilmali",
+    "output": "bazı kelimeler bağlama göre farklı şekilde düzeltilebilir, bu yüzden cümlenin tamamına bakılmalı"
+  },
+  {
+    "input": "ornek sayisi arttikca modelin duzeltme tarzi daha kararli hale gelir",
+    "output": "örnek sayısı arttıkça modelin düzeltme tarzı daha kararlı hâle gelir"
+  },
+  {
+    "input": "zor ornekler basit harf donusumlerinden daha faydali olur",
+    "output": "zor örnekler basit harf dönüşümlerinden daha faydalı olur"
+  },
+  {
+    "input": "dunku yemek cok guzeldi",
+    "output": "dünkü yemek çok güzeldi"
+  },
+  {
+    "input": "bugun hava cok sicak",
+    "output": "bugün hava çok sıcak"
+  },
+  {
+    "input": "sarki dinlemeyi seviyorum",
+    "output": "şarkı dinlemeyi seviyorum"
+  },
+  {
+    "input": "ask cok guzel bir duygu",
+    "output": "aşk çok güzel bir duygu"
+  },
+  {
+    "input": "yarin universiteye gidecegim",
+    "output": "yarın üniversiteye gideceğim"
+  },
+  {
+    "input": "ogretmen bugun derse gec geldi",
+    "output": "öğretmen bugün derse geç geldi"
+  },
+  {
+    "input": "ogrenciler sinavdan sonra cikti",
+    "output": "öğrenciler sınavdan sonra çıktı"
+  },
+  {
+    "input": "cok tesekkur ederim hocam",
+    "output": "çok teşekkür ederim hocam"
+  },
+  {
+    "input": "gunaydin nasilsin",
+    "output": "günaydın nasılsın"
+  },
+  {
+    "input": "aksam gorusmek uzere",
+    "output": "akşam görüşmek üzere"
+  },
+  {
+    "input": "ben bugun cok yorgunum",
+    "output": "ben bugün çok yorgunum"
+  },
+  {
+    "input": "turkce karakterleri yazamiyorum",
+    "output": "Türkçe karakterleri yazamıyorum"
+  },
+  {
+    "input": "calismaya erken basladim",
+    "output": "çalışmaya erken başladım"
+  },
+  {
+    "input": "yarin sabah erken kalkacagim",
+    "output": "yarın sabah erken kalkacağım"
+  },
+  {
+    "input": "bu isi beraber cozecegiz",
+    "output": "bu işi beraber çözeceğiz"
+  },
+  {
+    "input": "cocuklar bahcede oynuyor",
+    "output": "çocuklar bahçede oynuyor"
+  },
+  {
+    "input": "kucuk bir sorun var",
+    "output": "küçük bir sorun var"
+  },
+  {
+    "input": "buyuk ihtimalle gelecegim",
+    "output": "büyük ihtimalle geleceğim"
+  },
+  {
+    "input": "gunes bugun cok parlak",
+    "output": "güneş bugün çok parlak"
+  },
+  {
+    "input": "sabah kahvesi cok guzeldi",
+    "output": "sabah kahvesi çok güzeldi"
+  },
+  {
+    "input": "lutfen bana yardim eder misin",
+    "output": "lütfen bana yardım eder misin"
+  },
+  {
+    "input": "dosyayi masaustune kaydettim",
+    "output": "dosyayı masaüstüne kaydettim"
+  },
+  {
+    "input": "bilgisayar cok yavas calisiyor",
+    "output": "bilgisayar çok yavaş çalışıyor"
+  },
+  {
+    "input": "internet baglantisi kesildi",
+    "output": "internet bağlantısı kesildi"
+  },
+  {
+    "input": "program acilmiyor hata veriyor",
+    "output": "program açılmıyor hata veriyor"
+  },
+  {
+    "input": "sifreyi dogru girdigim halde giremiyorum",
+    "output": "şifreyi doğru girdiğim hâlde giremiyorum"
+  },
+  {
+    "input": "bugunku toplantiyi unutma",
+    "output": "bugünkü toplantıyı unutma"
+  },
+  {
+    "input": "toplanti saat kacta baslayacak",
+    "output": "toplantı saat kaçta başlayacak"
+  },
+  {
+    "input": "raporu aksam gonderecegim",
+    "output": "raporu akşam göndereceğim"
+  },
+  {
+    "input": "maili simdi kontrol ediyorum",
+    "output": "maili şimdi kontrol ediyorum"
+  },
+  {
+    "input": "ders notlarini paylasir misin",
+    "output": "ders notlarını paylaşır mısın"
+  },
+  {
+    "input": "sinav sonucu aciklandi mi",
+    "output": "sınav sonucu açıklandı mı"
+  },
+  {
+    "input": "hocayla gorusmem gerekiyor",
+    "output": "hocayla görüşmem gerekiyor"
+  },
+  {
+    "input": "universiteden cevap bekliyorum",
+    "output": "üniversiteden cevap bekliyorum"
+  },
+  {
+    "input": "ogrenci isleriyle konustum",
+    "output": "öğrenci işleriyle konuştum"
+  },
+  {
+    "input": "dilekce yazmam gerekiyor",
+    "output": "dilekçe yazmam gerekiyor"
+  },
+  {
+    "input": "basvuru sureci ne zaman bitiyor",
+    "output": "başvuru süreci ne zaman bitiyor"
+  },
+  {
+    "input": "mezun olmak icin kac kredi lazim",
+    "output": "mezun olmak için kaç kredi lazım"
+  },
+  {
+    "input": "bu donem cok yogun geciyor",
+    "output": "bu dönem çok yoğun geçiyor"
+  },
+  {
+    "input": "final haftasi yaklasiyor",
+    "output": "final haftası yaklaşıyor"
+  },
+  {
+    "input": "notlar sisteme girilmis",
+    "output": "notlar sisteme girilmiş"
+  },
+  {
+    "input": "hoca aciklama yapti",
+    "output": "hoca açıklama yaptı"
+  },
+  {
+    "input": "odevi zamaninda teslim ettim",
+    "output": "ödevi zamanında teslim ettim"
+  },
+  {
+    "input": "proje dosyasini yukledim",
+    "output": "proje dosyasını yükledim"
+  },
+  {
+    "input": "kod calisiyor ama yavas",
+    "output": "kod çalışıyor ama yavaş"
+  },
+  {
+    "input": "bu fonksiyon dogru calismiyor",
+    "output": "bu fonksiyon doğru çalışmıyor"
+  },
+  {
+    "input": "hatayi bulmaya calisiyorum",
+    "output": "hatayı bulmaya çalışıyorum"
+  },
+  {
+    "input": "ekranda hicbir sey gorunmuyor",
+    "output": "ekranda hiçbir şey görünmüyor"
+  },
+  {
+    "input": "cihaz yeniden baslatildi",
+    "output": "cihaz yeniden başlatıldı"
+  },
+  {
+    "input": "ayarlar menusu acilmiyor",
+    "output": "ayarlar menüsü açılmıyor"
+  },
+  {
+    "input": "wifi baglantisi kurulamadi",
+    "output": "Wi-Fi bağlantısı kurulamadı"
+  },
+  {
+    "input": "bluetooth cihazi gorunmuyor",
+    "output": "Bluetooth cihazı görünmüyor"
+  },
+  {
+    "input": "nfc modulu calismiyor",
+    "output": "NFC modülü çalışmıyor"
+  },
+  {
+    "input": "rf sinyali alinmiyor",
+    "output": "RF sinyali alınmıyor"
+  },
+  {
+    "input": "ekran parlakligi cok dusuk",
+    "output": "ekran parlaklığı çok düşük"
+  },
+  {
+    "input": "batarya yuzdesi gorunmuyor",
+    "output": "batarya yüzdesi görünmüyor"
+  },
+  {
+    "input": "butona bastigimda tepki vermiyor",
+    "output": "butona bastığımda tepki vermiyor"
+  },
+  {
+    "input": "ana menu daha buyuk olmali",
+    "output": "ana menü daha büyük olmalı"
+  },
+  {
+    "input": "ikonlar ekrana sigmiyor",
+    "output": "ikonlar ekrana sığmıyor"
+  },
+  {
+    "input": "renk secimi kaydedilmiyor",
+    "output": "renk seçimi kaydedilmiyor"
+  },
+  {
+    "input": "tasarim cok guzel olmus",
+    "output": "tasarım çok güzel olmuş"
+  },
+  {
+    "input": "kullanici arayuzu daha sade olmali",
+    "output": "kullanıcı arayüzü daha sade olmalı"
+  },
+  {
+    "input": "butun moduller ayni sekilde gorunmeli",
+    "output": "bütün modüller aynı şekilde görünmeli"
+  },
+  {
+    "input": "eski tasarima geri donuyor",
+    "output": "eski tasarıma geri dönüyor"
+  },
+  {
+    "input": "yeni tasarim korunmali",
+    "output": "yeni tasarım korunmalı"
+  },
+  {
+    "input": "simulasyon sadece ui icin olacak",
+    "output": "simülasyon sadece UI için olacak"
+  },
+  {
+    "input": "arka planda islem yapmayacak",
+    "output": "arka planda işlem yapmayacak"
+  },
+  {
+    "input": "kodu tekrar duzenler misin",
+    "output": "kodu tekrar düzenler misin"
+  },
+  {
+    "input": "dosyalari klasore tasidim",
+    "output": "dosyaları klasöre taşıdım"
+  },
+  {
+    "input": "resim kalitesi cok dusuk",
+    "output": "resim kalitesi çok düşük"
+  },
+  {
+    "input": "arkaplan transparan olmali",
+    "output": "arka plan transparan olmalı"
+  },
+  {
+    "input": "yesil rengi degistir",
+    "output": "yeşil rengi değiştir"
+  },
+  {
+    "input": "cizimi kesinlikle degistirme",
+    "output": "çizimi kesinlikle değiştirme"
+  },
+  {
+    "input": "olculer ayni kalsin",
+    "output": "ölçüler aynı kalsın"
+  },
+  {
+    "input": "kapilar ve pencereler ayni yerde kalsin",
+    "output": "kapılar ve pencereler aynı yerde kalsın"
+  },
+  {
+    "input": "metinleri arapcaya cevir",
+    "output": "metinleri Arapçaya çevir"
+  },
+  {
+    "input": "sayilari latin rakam olarak birak",
+    "output": "sayıları Latin rakam olarak bırak"
+  },
+  {
+    "input": "kaliteyi artir ama detayi bozma",
+    "output": "kaliteyi artır ama detayı bozma"
+  },
+  {
+    "input": "cok profesyonel gorunsun",
+    "output": "çok profesyonel görünsün"
+  },
+  {
+    "input": "bu maili daha resmi yaz",
+    "output": "bu maili daha resmî yaz"
+  },
+  {
+    "input": "hocaya nazik bir sekilde sor",
+    "output": "hocaya nazik bir şekilde sor"
+  },
+  {
+    "input": "cevabiniz icin tesekkur ederim",
+    "output": "cevabınız için teşekkür ederim"
+  },
+  {
+    "input": "konuyla ilgili bilgi bekliyorum",
+    "output": "konuyla ilgili bilgi bekliyorum"
+  },
+  {
+    "input": "gereginin yapilmasini arz ederim",
+    "output": "gereğinin yapılmasını arz ederim"
+  },
+  {
+    "input": "saygilarimla iyi calismalar dilerim",
+    "output": "saygılarımla iyi çalışmalar dilerim"
+  },
+  {
+    "input": "durumu aciklamak istiyorum",
+    "output": "durumu açıklamak istiyorum"
+  },
+  {
+    "input": "notumun tekrar incelenmesini rica ederim",
+    "output": "notumun tekrar incelenmesini rica ederim"
+  },
+  {
+    "input": "sinav kagidim tekrar kontrol edilebilir mi",
+    "output": "sınav kâğıdım tekrar kontrol edilebilir mi"
+  },
+  {
+    "input": "aldigim notu anlamakta zorlaniyorum",
+    "output": "aldığım notu anlamakta zorlanıyorum"
+  },
+  {
+    "input": "bu konuda yardiminizi rica ederim",
+    "output": "bu konuda yardımınızı rica ederim"
+  },
+  {
+    "input": "basarili bir donem gecirdim",
+    "output": "başarılı bir dönem geçirdim"
+  },
+  {
+    "input": "bu dersten gecmem gerekiyor",
+    "output": "bu dersten geçmem gerekiyor"
+  },
+  {
+    "input": "mezuniyet icin onemli bir durum",
+    "output": "mezuniyet için önemli bir durum"
+  },
+  {
+    "input": "akts limitim doldu",
+    "output": "AKTS limitim doldu"
+  },
+  {
+    "input": "tek ders sinavina girmek istiyorum",
+    "output": "tek ders sınavına girmek istiyorum"
+  },
+  {
+    "input": "yaz okulunda ders almak istiyorum",
+    "output": "yaz okulunda ders almak istiyorum"
+  },
+  {
+    "input": "danisman hocamla gorustum",
+    "output": "danışman hocamla görüştüm"
+  },
+  {
+    "input": "fakulte kurulundan onay bekleniyor",
+    "output": "fakülte kurulundan onay bekleniyor"
+  },
+  {
+    "input": "sistem uzerinden ders secimi yapamiyorum",
+    "output": "sistem üzerinden ders seçimi yapamıyorum"
+  },
+  {
+    "input": "ders programi cok karisik",
+    "output": "ders programı çok karışık"
+  },
+  {
+    "input": "hocanin anlattigi konu sinavda cikti",
+    "output": "hocanın anlattığı konu sınavda çıktı"
+  },
+  {
+    "input": "konu mufredatin disinda olabilir",
+    "output": "konu müfredatın dışında olabilir"
+  },
+  {
+    "input": "ogrenciler bu durumdan rahatsiz",
+    "output": "öğrenciler bu durumdan rahatsız"
+  },
+  {
+    "input": "sikayetimi iletmek istiyorum",
+    "output": "şikâyetimi iletmek istiyorum"
+  },
+  {
+    "input": "bugun istanbulda hava nasil",
+    "output": "bugün İstanbul'da hava nasıl"
+  },
+  {
+    "input": "istanbulda yasamak cok guzel",
+    "output": "İstanbul'da yaşamak çok güzel"
+  },
+  {
+    "input": "turkiyede universite okumak istiyorum",
+    "output": "Türkiye'de üniversite okumak istiyorum"
+  },
+  {
+    "input": "misirda ailemi ziyaret edecegim",
+    "output": "Mısır'da ailemi ziyaret edeceğim"
+  },
+  {
+    "input": "turkce ogrenmek zor ama guzel",
+    "output": "Türkçe öğrenmek zor ama güzel"
+  },
+  {
+    "input": "ingilizce klavye ile turkce yaziyorum",
+    "output": "İngilizce klavye ile Türkçe yazıyorum"
+  },
+  {
+    "input": "arapca ve turkce biliyorum",
+    "output": "Arapça ve Türkçe biliyorum"
+  },
+  {
+    "input": "bugun biraz gec uyandim",
+    "output": "bugün biraz geç uyandım"
+  },
+  {
+    "input": "kahvalti yapmadan disari ciktim",
+    "output": "kahvaltı yapmadan dışarı çıktım"
+  },
+  {
+    "input": "metro cok kalabalikti",
+    "output": "metro çok kalabalıktı"
+  },
+  {
+    "input": "otobus gec geldi",
+    "output": "otobüs geç geldi"
+  },
+  {
+    "input": "yolda arkadasimla karsilastim",
+    "output": "yolda arkadaşımla karşılaştım"
+  },
+  {
+    "input": "eve donunce seni arayacagim",
+    "output": "eve dönünce seni arayacağım"
+  },
+  {
+    "input": "aksam yemeginde corba ictim",
+    "output": "akşam yemeğinde çorba içtim"
+  },
+  {
+    "input": "annem cok guzel yemek yapti",
+    "output": "annem çok güzel yemek yaptı"
+  },
+  {
+    "input": "babamla telefonda gorustum",
+    "output": "babamla telefonda görüştüm"
+  },
+  {
+    "input": "kardesim okula gitti",
+    "output": "kardeşim okula gitti"
+  },
+  {
+    "input": "arkadaslarimla kafede bulustuk",
+    "output": "arkadaşlarımla kafede buluştuk"
+  },
+  {
+    "input": "cay icmeyi cok seviyorum",
+    "output": "çay içmeyi çok seviyorum"
+  },
+  {
+    "input": "turk kahvesi ictik",
+    "output": "Türk kahvesi içtik"
+  },
+  {
+    "input": "kitap okumaya basladim",
+    "output": "kitap okumaya başladım"
+  },
+  {
+    "input": "filmi cok begendim",
+    "output": "filmi çok beğendim"
+  },
+  {
+    "input": "muzik dinlerken calisiyorum",
+    "output": "müzik dinlerken çalışıyorum"
+  },
+  {
+    "input": "spor yapmayi dusunuyorum",
+    "output": "spor yapmayı düşünüyorum"
+  },
+  {
+    "input": "bugun kendimi iyi hissediyorum",
+    "output": "bugün kendimi iyi hissediyorum"
+  },
+  {
+    "input": "biraz basim agriyor",
+    "output": "biraz başım ağrıyor"
+  },
+  {
+    "input": "doktor randevusu aldim",
+    "output": "doktor randevusu aldım"
+  },
+  {
+    "input": "ilacimi zamaninda ictim",
+    "output": "ilacımı zamanında içtim"
+  },
+  {
+    "input": "dinlenmem gerektigini soyledi",
+    "output": "dinlenmem gerektiğini söyledi"
+  },
+  {
+    "input": "isler cok yogunlasti",
+    "output": "işler çok yoğunlaştı"
+  },
+  {
+    "input": "bugun ofise gitmeyecegim",
+    "output": "bugün ofise gitmeyeceğim"
+  },
+  {
+    "input": "evden calisiyorum",
+    "output": "evden çalışıyorum"
+  },
+  {
+    "input": "toplantida sunum yapacagim",
+    "output": "toplantıda sunum yapacağım"
+  },
+  {
+    "input": "sunumu birazdan gonderecegim",
+    "output": "sunumu birazdan göndereceğim"
+  },
+  {
+    "input": "musteriyle gorusme yapildi",
+    "output": "müşteriyle görüşme yapıldı"
+  },
+  {
+    "input": "proje takvimi guncellendi",
+    "output": "proje takvimi güncellendi"
+  },
+  {
+    "input": "butce tekrar hesaplandi",
+    "output": "bütçe tekrar hesaplandı"
+  },
+  {
+    "input": "raporda bazi hatalar var",
+    "output": "raporda bazı hatalar var"
+  },
+  {
+    "input": "lutfen bu kisimlari duzelt",
+    "output": "lütfen bu kısımları düzelt"
+  },
+  {
+    "input": "sozlesme imzalanmadan once oku",
+    "output": "sözleşme imzalanmadan önce oku"
+  },
+  {
+    "input": "fatura odemesi yapildi",
+    "output": "fatura ödemesi yapıldı"
+  },
+  {
+    "input": "hesap numarasini kontrol et",
+    "output": "hesap numarasını kontrol et"
+  },
+  {
+    "input": "siparis ne zaman gelecek",
+    "output": "sipariş ne zaman gelecek"
+  },
+  {
+    "input": "kargo bugun teslim edildi",
+    "output": "kargo bugün teslim edildi"
+  },
+  {
+    "input": "urun bekledigimden daha iyi cikti",
+    "output": "ürün beklediğimden daha iyi çıktı"
+  },
+  {
+    "input": "iade sureci baslatildi",
+    "output": "iade süreci başlatıldı"
+  },
+  {
+    "input": "magazadan cevap bekliyorum",
+    "output": "mağazadan cevap bekliyorum"
+  },
+  {
+    "input": "telefonun sarji cabuk bitiyor",
+    "output": "telefonun şarjı çabuk bitiyor"
+  },
+  {
+    "input": "ekran koruyucu kirildi",
+    "output": "ekran koruyucu kırıldı"
+  },
+  {
+    "input": "kulaklik calismayi durdurdu",
+    "output": "kulaklık çalışmayı durdurdu"
+  },
+  {
+    "input": "kamera goruntusu net degil",
+    "output": "kamera görüntüsü net değil"
+  },
+  {
+    "input": "ses cok dusuk geliyor",
+    "output": "ses çok düşük geliyor"
+  },
+  {
+    "input": "mikrofon sesimi almiyor",
+    "output": "mikrofon sesimi almıyor"
+  },
+  {
+    "input": "uygulama surekli kapaniyor",
+    "output": "uygulama sürekli kapanıyor"
+  },
+  {
+    "input": "guncellemeden sonra sorun cikti",
+    "output": "güncellemeden sonra sorun çıktı"
+  },
+  {
+    "input": "ayarlar sifirlandi",
+    "output": "ayarlar sıfırlandı"
+  },
+  {
+    "input": "yedekleme basarisiz oldu",
+    "output": "yedekleme başarısız oldu"
+  },
+  {
+    "input": "dosya bulunamadi hatasi aliyorum",
+    "output": "dosya bulunamadı hatası alıyorum"
+  },
+  {
+    "input": "sunucuya baglanamiyorum",
+    "output": "sunucuya bağlanamıyorum"
+  },
+  {
+    "input": "veritabani baglantisi kuruldu",
+    "output": "veritabanı bağlantısı kuruldu"
+  },
+  {
+    "input": "kullanici adi hatali",
+    "output": "kullanıcı adı hatalı"
+  },
+  {
+    "input": "sifre yenileme baglantisi gonderildi",
+    "output": "şifre yenileme bağlantısı gönderildi"
+  },
+  {
+    "input": "guvenlik kodu gecersiz",
+    "output": "güvenlik kodu geçersiz"
+  },
+  {
+    "input": "iki asamali dogrulama aktif",
+    "output": "iki aşamalı doğrulama aktif"
+  },
+  {
+    "input": "hesabima giris yapamiyorum",
+    "output": "hesabıma giriş yapamıyorum"
+  },
+  {
+    "input": "oturum suresi doldu",
+    "output": "oturum süresi doldu"
+  },
+  {
+    "input": "sayfa yuklenirken hata olustu",
+    "output": "sayfa yüklenirken hata oluştu"
+  },
+  {
+    "input": "formu doldurup gonderdim",
+    "output": "formu doldurup gönderdim"
+  },
+  {
+    "input": "baslik cok uzun olmus",
+    "output": "başlık çok uzun olmuş"
+  },
+  {
+    "input": "aciklama kismi eksik kalmis",
+    "output": "açıklama kısmı eksik kalmış"
+  },
+  {
+    "input": "buton rengi degismeli",
+    "output": "buton rengi değişmeli"
+  },
+  {
+    "input": "yazi tipi daha okunakli olmali",
+    "output": "yazı tipi daha okunaklı olmalı"
+  },
+  {
+    "input": "arka plan rengi cok koyu",
+    "output": "arka plan rengi çok koyu"
+  },
+  {
+    "input": "kenar bosluklari artirilmali",
+    "output": "kenar boşlukları artırılmalı"
+  },
+  {
+    "input": "sayfa mobilde duzgun gorunmuyor",
+    "output": "sayfa mobilde düzgün görünmüyor"
+  },
+  {
+    "input": "tasarimi bozmadan duzelt",
+    "output": "tasarımı bozmadan düzelt"
+  },
+  {
+    "input": "mevcut yapiyi koru",
+    "output": "mevcut yapıyı koru"
+  },
+  {
+    "input": "sadece gerekli yerleri degistir",
+    "output": "sadece gerekli yerleri değiştir"
+  },
+  {
+    "input": "kodun mantigini bozma",
+    "output": "kodun mantığını bozma"
+  },
+  {
+    "input": "fonksiyon isimlerini ayni birak",
+    "output": "fonksiyon isimlerini aynı bırak"
+  },
+  {
+    "input": "modul isimleri degismesin",
+    "output": "modül isimleri değişmesin"
+  },
+  {
+    "input": "ikonlar dogru dosyadan gelsin",
+    "output": "ikonlar doğru dosyadan gelsin"
+  },
+  {
+    "input": "ana ekranda sadece buyuk ikonlar olsun",
+    "output": "ana ekranda sadece büyük ikonlar olsun"
+  },
+  {
+    "input": "alt menuyu kaldir",
+    "output": "alt menüyü kaldır"
+  },
+  {
+    "input": "basligi daha buyuk yap",
+    "output": "başlığı daha büyük yap"
+  },
+  {
+    "input": "secili oge daha belirgin olsun",
+    "output": "seçili öge daha belirgin olsun"
+  },
+  {
+    "input": "renk degisikligi hemen uygulansin",
+    "output": "renk değişikliği hemen uygulansın"
+  },
+  {
+    "input": "ayar kaydedildikten sonra ekrana yansisin",
+    "output": "ayar kaydedildikten sonra ekrana yansısın"
+  },
+  {
+    "input": "geri tusu eklemek istiyorum",
+    "output": "geri tuşu eklemek istiyorum"
+  },
+  {
+    "input": "pil yuzdesi dogru hesaplanmali",
+    "output": "pil yüzdesi doğru hesaplanmalı"
+  },
+  {
+    "input": "cihaz acilis ekraninda logo gorunsun",
+    "output": "cihaz açılış ekranında logo görünsün"
+  },
+  {
+    "input": "yukleme ekraninda animasyon olsun",
+    "output": "yükleme ekranında animasyon olsun"
+  },
+  {
+    "input": "wifi araclari listelenmeli",
+    "output": "Wi-Fi araçları listelenmeli"
+  },
+  {
+    "input": "rf araclari ayni tasarimla acilmali",
+    "output": "RF araçları aynı tasarımla açılmalı"
+  },
+  {
+    "input": "nfc menusunu inceleyip ui yap",
+    "output": "NFC menüsünü inceleyip UI yap"
+  },
+  {
+    "input": "ir kumanda sinyali alindi",
+    "output": "IR kumanda sinyali alındı"
+  }
+]
